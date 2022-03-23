@@ -1,0 +1,32 @@
+com/example/clinicmangmentsystem/doctor/LoginActivity.java
+ com.example.clinicmangmentsystem.doctor.LoginActivity
+ com.example.clinicmangmentsystem.doctor.LoginActivity$1
+ com.example.clinicmangmentsystem.doctor.LoginActivity$2
+com/example/clinicmangmentsystem/BuildConfig.java
+ com.example.clinicmangmentsystem.BuildConfig
+com/example/clinicmangmentsystem/SelectActivity.java
+ com.example.clinicmangmentsystem.SelectActivity
+ com.example.clinicmangmentsystem.SelectActivity$1
+ com.example.clinicmangmentsystem.SelectActivity$2
+com/example/clinicmangmentsystem/patient/SignuppatientActivity.java
+ com.example.clinicmangmentsystem.patient.SignuppatientActivity
+com/example/clinicmangmentsystem/doctor/SignupActivity.java
+ com.example.clinicmangmentsystem.doctor.SignupActivity
+com/example/clinicmangmentsystem/patient/ActivitypatFragment.java
+ com.example.clinicmangmentsystem.patient.ActivitypatFragment
+com/example/clinicmangmentsystem/SplashActivity.java
+ com.example.clinicmangmentsystem.SplashActivity
+ com.example.clinicmangmentsystem.SplashActivity$1
+com/example/clinicmangmentsystem/patient/ProfilepatFragment.java
+ com.example.clinicmangmentsystem.patient.ProfilepatFragment
+com/example/clinicmangmentsystem/patient/HomepatFragment.java
+ com.example.clinicmangmentsystem.patient.HomepatFragment
+com/example/clinicmangmentsystem/patient/LoginActivity.java
+ com.example.clinicmangmentsystem.patient.LoginActivity
+ com.example.clinicmangmentsystem.patient.LoginActivity$1
+ com.example.clinicmangmentsystem.patient.LoginActivity$2
+com/example/clinicmangmentsystem/MainActivity.java
+ com.example.clinicmangmentsystem.MainActivity
+ com.example.clinicmangmentsystem.MainActivity$1
+ com.example.clinicmangmentsystem.MainActivity$2
+ com.example.clinicmangmentsystem.MainActivity$3
